@@ -94,4 +94,4 @@ The dataset contains:
 ## Author
 Sonam Shreya
 
-Aspiring Data Analyst skilled in SQL, Power BI, and Data Visualization.
+
